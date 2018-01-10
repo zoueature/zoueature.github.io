@@ -10,7 +10,7 @@ url: "https://eaturezou.github.io" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: none
+twitter_username:
 github_username:  eaturezou
 disqus_shortname: Eature
 favicon:     "/images/fish.png"
@@ -53,7 +53,7 @@ locales:
       Tags: "标签"
       Previous: "前一篇"
       Next: "后一篇"
-      PostedInCategories: "目录:"
+      PostedInCategories: "分类:"
       Taggedwith: "| 标签:"
       PostDate: "| 发表时间: "
       Google_search: "站内搜索"
