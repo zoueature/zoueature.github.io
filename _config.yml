@@ -13,9 +13,9 @@ locale: en_US
 twitter_username: none
 github_username:  eaturezou
 disqus_shortname: Eature
-favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
+favicon:     "/images/fish.png"
+aboutme: 进击的程序猴子一枚 # these are shown on aboutme-sidebar.
+aboutme_photo: "/images/sharkfish.jpg"
 google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable)
 
 
