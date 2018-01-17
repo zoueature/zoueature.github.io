@@ -16,5 +16,4 @@ permalink: /about/
 <a href="https://github.com/{{site.github_username}}" title="GithubID: {{site.github_username}}">Github</a> /
 {% endif %}
 
-{% endif %}
 联系我
