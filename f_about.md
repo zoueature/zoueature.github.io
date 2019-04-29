@@ -17,3 +17,5 @@ permalink: /about/
 {% endif %}
 
 联系我
+
+查看我的<a href="https://eaturezou.github.io/resume/">简历</a>
