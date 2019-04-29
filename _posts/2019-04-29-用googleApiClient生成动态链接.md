@@ -4,7 +4,7 @@ author: eature
 published: true
 categories: other
 tags:
-- google-api
+- googleapi
 - 动态链接
 ---
 
