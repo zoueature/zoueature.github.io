@@ -5,8 +5,8 @@ author: Eature
 email: zoueature@gmail.com
 description: "沉淀与积累才是托起梦想的双手" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "eature, blog"
-baseurl: "https://eaturezou.github.io" # the subpath of your site, e.g. /blog/
-url: "https://eaturezou.github.io" # the base hostname & protocol for your site
+baseurl: "https://zoueature.github.io" # the subpath of your site, e.g. /blog/
+url: "https://zoueature.github.io" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
